@@ -7,7 +7,7 @@ Mobile Engineer
 * 🌍  I'm based in Rio de Janeiro, Brazil
 * ✉️  You can contact me at [luis.e.c.mendoza@gmail.com](mailto:luis.e.c.mendoza@gmail.com)
 * 🧠  I'm learning UIKit | Swift
-* 🤝  I'm open to collaborating on iOT, Streaming, Automation, Luxurys Ecommerces
+* 🤝  I'm open to collaborating on Forex & Crypto Market, Automation new Crazy Ideias ;)
 
 ### Skills
 
